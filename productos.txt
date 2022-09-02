@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Perfume 2H2",
+    "price": 1000,
+    "thumbnail": "https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg",
+    "id": 1
+  },
+  {
+    "title":"Perfume Paco",
+    "price":3000,
+    "thumbnail":"https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg",
+    "id":3
+  },
+  {
+    "title": "Perfume Elemental",
+    "price": 4000,
+    "thumbnail": "https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg",
+    "id": 4
+  },
+  {
+    "title": "Perfume Chronos",
+    "price": 5000,
+    "thumbnail": "https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg",
+    "id": 5
+  },
+  {
+    "title": "Perfume Kayak",
+    "price": 6000,
+    "thumbnail": "https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg",
+    "id": 6
+  },
+  {
+    "title": "Perfume Scandalete",
+    "price": 10500,
+    "thumbnail": "https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg",
+    "id": 8
+  }
+]
