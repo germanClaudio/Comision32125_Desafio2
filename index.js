@@ -99,7 +99,7 @@ const container = new Container('./productos.txt')
 
 //container.getAll()
 
-container.getById(8)
+container.getById(10)
 
 //container.deleteById(3)
 
