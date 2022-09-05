@@ -93,13 +93,13 @@ class Container {
 
 const container = new Container('./productos.txt')
 
-/* --- PARA PROBAR LOS MODULOS, DESCOMENTAR LAS LINEAS container.getAll(), container.getById(5), container.deleteById(3), container.deleteAll() O container.save({}) ---*/
+/* --- PARA PROBAR LOS MODULOS, DESCOMENTAR LAS LINEAS container.getAll(), container.getById(), container.deleteById(), container.deleteAll() O container.save({}) ---*/
 
 //container.save({title: "Perfume Secret", price: 16500, thumbnail: "https://media.glamour.es/photos/616f93e77a09840b79f4bd0a/master/w_2953,h_4134,c_limit/619390.jpg"})
 
-container.getAll()
+//container.getAll()
 
-//container.getById(5)
+container.getById(8)
 
 //container.deleteById(3)
 
